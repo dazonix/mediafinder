@@ -5,8 +5,11 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 #use the same format for name & user_id placeholders
 START_MSG = """
-Hi **[{}](tg://user?id={})**, I am a media finder bot which finds media from my database channel. Just send query to find the media.
-Send /help for more.
+Hi **[{}](tg://user?id={})**, I am a Malayalam Movie Search Bot🎉 
+
+• Bot എങ്ങനെയാണ് ഉപയോഗിക്കേണ്ടത് എന്നറിയാൻ /help അമർത്തുക.
+
+NB: ഈ bot ഉപയോഗിക്കാൻ ആദ്യം @DazonixBots ൽ join ചെയ്യണം.
 """
 
 HELP_MSG = """
