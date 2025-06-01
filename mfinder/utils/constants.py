@@ -21,7 +21,11 @@ HELP_KB = InlineKeyboardMarkup(
 )
 
 
-STARTMSG = "Hi **[{}](tg://user?id={})**, I am a media finder bot which finds media from my database channel. Just send query to find the media.\nSend /help for more or you can toggle your settings by sending /settings."
+STARTMSG = "Hi **[{}](tg://user?id={})**, I am a Malayalam Movie Search Bot🎉 
+
+• Bot എങ്ങനെയാണ് ഉപയോഗിക്കേണ്ടത് എന്നറിയാൻ /help അമർത്തുക.
+
+NB: ഈ bot ഉപയോഗിക്കാൻ ആദ്യം @DazonixBots ൽ join ചെയ്യണം.
 
 
 HELPMSG = """
